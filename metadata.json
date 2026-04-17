@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "Sultan Arsitek Pro v6.0",
+  "description": "Premium estimasi penawaran harga arsitektur dan konstruksi besi Bengkel Sultan Makassar."
+}
